@@ -1,0 +1,17 @@
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.csproj.AssemblyReference.cache
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.Form1.resources
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.csproj.GenerateResource.cache
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.AssemblyInfoInputs.cache
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.AssemblyInfo.cs
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.csproj.CoreCompileInputs.cache
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\bin\Release\net6.0-windows\ViktorGUIConverter.exe
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\bin\Release\net6.0-windows\ViktorGUIConverter.deps.json
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\bin\Release\net6.0-windows\ViktorGUIConverter.runtimeconfig.json
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\bin\Release\net6.0-windows\ViktorGUIConverter.dll
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\bin\Release\net6.0-windows\ViktorGUIConverter.pdb
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.dll
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\refint\ViktorGUIConverter.dll
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.pdb
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ViktorGUIConverter.genruntimeconfig.cache
+C:\Users\deo08\source\repos\ViktorGUIConverter\ViktorGUIConverter\obj\Release\net6.0-windows\ref\ViktorGUIConverter.dll
